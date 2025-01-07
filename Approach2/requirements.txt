@@ -1,0 +1,7 @@
+spacy
+nltk
+pandas[excel]
+scikit-learn
+biopython
+fastapi[standard]
+uvicorn

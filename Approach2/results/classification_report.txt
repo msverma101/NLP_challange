@@ -1,0 +1,20 @@
+Relevance Classification Report
+              precision    recall  f1-score   support
+
+       False       0.94      1.00      0.97       828
+        True       0.99      0.68      0.81       172
+
+    accuracy                           0.94      1000
+   macro avg       0.96      0.84      0.89      1000
+weighted avg       0.95      0.94      0.94      1000
+
+Sentiment Analysis Classification Report of Ensemble Model
+              precision    recall  f1-score   support
+
+    Positive       0.87      0.93      0.90       266
+    Negative       0.93      0.87      0.90       285
+     Neutral       0.92      0.92      0.92       277
+
+    accuracy                           0.91       828
+   macro avg       0.91      0.91      0.91       828
+weighted avg       0.91      0.91      0.91       828

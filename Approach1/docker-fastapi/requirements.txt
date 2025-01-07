@@ -1,0 +1,9 @@
+fastapi
+transformers>=4.45.1
+peft
+uvicorn
+pydantic
+numpy
+huggingface_hub
+accelerate
+tokenizers
